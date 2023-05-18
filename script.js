@@ -4,10 +4,10 @@ var myQuestions = [
   {
     question: "1. Which of the following statement is untrue?",
     answers: {
-      a. 'Inline elements can be nested inside inline elements',
-      b. 'Block elements can be nested inside block elements',
-      c. 'Inline elements can be nested inside block elements',
-      d. 'Block elements can be nested inside inline elements'
+      a: 'Inline elements can be nested inside inline elements',
+      b: 'Block elements can be nested inside block elements',
+      c: 'Inline elements can be nested inside block elements',
+      d: 'Block elements can be nested inside inline elements'
     },
     correctAnswer: 'd'
   },
